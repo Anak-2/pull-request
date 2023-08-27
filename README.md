@@ -1,2 +1,2 @@
 # pull-request
-add reviewers
+fix readme second trial and add reviewers
