@@ -1,2 +1,2 @@
 # pull-request
-request pull
+add reviewers
